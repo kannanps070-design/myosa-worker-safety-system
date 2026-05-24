@@ -66,7 +66,7 @@ This project introduces a smart IoT-based safety helmet capable of real-time env
 ### Videos
 
 <video controls width="100%">
-<source src="/Integrated_Multi_Hazard_Worker_Safety_System/Video/demo.mp4" type="video/mp4">
+<source src="Integrated_Multi_Hazard_Worker_Safety_System/Video/demo.mp4" type="video/mp4">
 </video>
 
 ---
