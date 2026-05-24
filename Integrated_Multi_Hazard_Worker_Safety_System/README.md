@@ -49,17 +49,17 @@ This project introduces a smart IoT-based safety helmet capable of real-time env
 ### Images
 
 <p align="center">
-<img src="/Images/helmet.jpeg" width="800">
+<img src="/Images/helmet.jpeg" width="800"><br/>
 <i>Smart Safety Helmet Prototype</i>
 </p>
 
 <p align="center">
-<img src="/Images/dashboard.jpeg" width="800">
+<img src="/Images/dashboard.jpeg" width="800"><br/>
 <i>Flask Monitoring Dashboard</i>
 </p>
 
 <p align="center">
-<img src="/Images/hardware.jpeg" width="800">
+<img src="/Images/hardware.jpeg" width="800"><br/>
 <i>Hardware Components Used in the System</i>
 </p>
 
